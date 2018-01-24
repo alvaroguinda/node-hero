@@ -1,0 +1,20 @@
+{
+  "name": "@alvaroguinda/node-hero",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alvaroguinda/node-hero.git"
+  },
+  "author": "Alvaro Guinda",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alvaroguinda/node-hero/issues"
+  },
+  "homepage": "https://github.com/alvaroguinda/node-hero#readme"
+}
